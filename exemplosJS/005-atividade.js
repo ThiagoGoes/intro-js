@@ -15,7 +15,7 @@ n2 = parseFloat(n);
 media = (n1 + n2)/2
 
 if (media < 5) {
-    console.log('Sua nota é: I');,
+    console.log('Sua nota é: I');
 
 }else if (media >= 5 && media <6.5) {
     console.log('Sua nota é: R');
