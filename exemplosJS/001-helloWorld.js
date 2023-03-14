@@ -23,6 +23,8 @@ console.log(Array.isArray(' Dados Endereços: ' + endereco));
 console.log('Covid: ' + covid);
 console.log('Dengue: ' + dengue);
 
+
+
 // console.log(`Seu nome é: ${nome}, sua idade é: ${idade}, trabalha: ${trabalha}`);
 // console.log('');
 // console.log('----------------------------');
